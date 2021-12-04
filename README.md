@@ -1,2 +1,2 @@
-# github_actions
+# actions_toolkit
 Deno
